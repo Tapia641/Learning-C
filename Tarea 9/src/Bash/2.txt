@@ -1,0 +1,2 @@
+echo $SHELL_VERSION
+4.3.48(1)-release

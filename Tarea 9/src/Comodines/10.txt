@@ -1,0 +1,6 @@
+ls *.{txt,o,cpp,c}
+
+ls: cannot access '*.o': No such file or directory
+ls: cannot access '*.cpp': No such file or directory
+ls: cannot access '*.c': No such file or directory
+10.txt  5.txt  6.txt  7.txt  8.txt  9.txt

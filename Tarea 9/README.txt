@@ -1,0 +1,1 @@
+Todos los archivos fueron salidas de flujo de datos en la shell.

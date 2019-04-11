@@ -1,0 +1,2 @@
+Ejecucion:
+./nombre del ejecutable

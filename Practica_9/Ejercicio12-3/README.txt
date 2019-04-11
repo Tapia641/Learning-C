@@ -1,0 +1,2 @@
+Modo de ejecucion:
+./Nombre

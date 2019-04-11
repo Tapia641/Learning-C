@@ -1,0 +1,4 @@
+Soy el padre: PID 3465; PPID = 3455 i =  -1
+
+Soy el hijo: PID 3466; PPID = 588 i = 1
+

@@ -1,0 +1,3 @@
+Modo de ejecucion
+
+./NombreProg

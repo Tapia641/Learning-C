@@ -1,0 +1,2 @@
+ls *.cpp 2> 14.txt
+ls: cannot access '*.cpp': No such file or directory

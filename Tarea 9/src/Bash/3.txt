@@ -1,0 +1,2 @@
+whereis bash
+bash: /bin/bash /etc/bash.bashrc /usr/share/man/man1/bash.1.gz

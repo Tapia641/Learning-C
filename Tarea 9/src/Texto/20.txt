@@ -1,0 +1,7 @@
+echo 'El uso del bash puede ser poco interactivo
+> pero con una alta utilidad en las ciencias de la computacion
+> es decir, en un principio era la forma tradicional de usar una computadora.'
+
+El uso del bash puede ser poco interactivo
+pero con una alta utilidad en las ciencias de la computacion
+es decir, en un principio era la forma tradicional de usar una computadora.

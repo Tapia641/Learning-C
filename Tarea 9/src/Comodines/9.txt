@@ -1,0 +1,2 @@
+echo ~/Downloads/ > 9.txt
+/home/tapia/Downloads/

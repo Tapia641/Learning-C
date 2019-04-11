@@ -1,0 +1,2 @@
+echo 2\*3\>5 es una expresion cierta
+2*3>5 es una expresion cierta

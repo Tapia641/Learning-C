@@ -1,0 +1,2 @@
+echo ho{a..e}
+hoa hob hoc hod hoe

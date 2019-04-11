@@ -1,0 +1,4 @@
+ls *g 2>> 15.txt
+
+ls: cannot access '*p': No such file or directory
+ls: cannot access '*g': No such file or directory
